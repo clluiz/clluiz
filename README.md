@@ -5,7 +5,7 @@
 
 <br>
 
-## <picture><img style="border-radius: 50%;" src = "https://media.licdn.com/dms/image/C4D03AQFgGX6LB-ocBQ/profile-displayphoto-shrink_800_800/0/1659458400147?e=1683158400&v=beta&t=doEl1fh0aNVD6aqnlSdLmris5e3F9DFgDNFHZLS_1BM" width = 50px></picture> **About me**
+## **About me**
 
 <br>
 
