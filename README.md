@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , Cleiton Luiz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 style="color: #2F3B99;">Turning digital dreams into reality: I am a web developer dedicated to crafting online solutions that elevate your business to the next level!</h2>
+<h2 style="color: #2F3B99;">Serving companies that need to create or evolve digital solutions—such as internal systems, SaaS, custom dashboards, or bespoke web applications. I work on projects lasting 3 to 6 months, focusing on high-impact deliverables.</h2>
 
 
 <br>
